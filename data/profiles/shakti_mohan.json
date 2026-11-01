@@ -1,0 +1,37 @@
+{
+  "username": "shakti_mohan",
+  "profile_url": "https://www.instagram.com/shakti_mohan/",
+  "title": "(@shakti_mohan) • Instagram photos and videos",
+  "followers": "56",
+  "following": "4",
+  "posts_count": "2",
+  "meta_description": "56 Followers, 4 Following, 2 Posts - @shakti_mohan on Instagram: \"\"",
+  "posts_collected": 2,
+  "profile_html": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\shakti_mohan_profile.html",
+  "profile_screenshot": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\shakti_mohan_profile.png",
+  "collected_at": "2026-10-30T23:09:18",
+  "posts": [
+    {
+      "username": "shakti_mohan",
+      "post_url": "https://www.instagram.com/shakti_mohan/p/zU3XjvGumU/",
+      "likes": "10",
+      "comments": "0",
+      "meta_description": "10 likes, 0 comments - shakti_mohan on August 31, 2015",
+      "og_description": "10 likes, 0 comments - shakti_mohan on August 31, 2015",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\shakti_mohan_post_1.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\shakti_mohan_post_1.png",
+      "collected_at": "2026-10-30T23:09:08"
+    },
+    {
+      "username": "shakti_mohan",
+      "post_url": "https://www.instagram.com/shakti_mohan/p/xcuil1GuiL/",
+      "likes": "8",
+      "comments": "0",
+      "meta_description": "8 likes, 0 comments - shakti_mohan on August 31, 2015",
+      "og_description": "8 likes, 0 comments - shakti_mohan on August 31, 2015",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\shakti_mohan_post_2.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\shakti_mohan_post_2.png",
+      "collected_at": "2026-10-30T23:09:15"
+    }
+  ]
+}

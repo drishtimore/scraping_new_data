@@ -1,0 +1,26 @@
+{
+  "username": "dearsir",
+  "profile_url": "https://www.instagram.com/dearsir/",
+  "title": "(@dearsir) • Instagram photos and videos",
+  "followers": "19",
+  "following": "1",
+  "posts_count": "1",
+  "meta_description": "19 Followers, 1 Following, 1 Posts - @dearsir on Instagram: \"\"",
+  "posts_collected": 1,
+  "profile_html": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\dearsir_profile.html",
+  "profile_screenshot": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\dearsir_profile.png",
+  "collected_at": "2026-10-23T00:08:45",
+  "posts": [
+    {
+      "username": "dearsir",
+      "post_url": "https://www.instagram.com/dearsir/p/JB9kBeyfi9/",
+      "likes": "16",
+      "comments": "5",
+      "meta_description": "16 likes, 5 comments - dearsir on August 26, 2015",
+      "og_description": "16 likes, 5 comments - dearsir on August 26, 2015",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\dearsir_post_1.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\dearsir_post_1.png",
+      "collected_at": "2026-10-23T00:08:42"
+    }
+  ]
+}

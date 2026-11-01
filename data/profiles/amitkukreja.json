@@ -1,0 +1,26 @@
+{
+  "username": "amitkukreja",
+  "profile_url": "https://www.instagram.com/amitkukreja/",
+  "title": "(@amitkukreja) • Instagram photos and videos",
+  "followers": "11",
+  "following": "0",
+  "posts_count": "1",
+  "meta_description": "11 Followers, 0 Following, 1 Posts - @amitkukreja on Instagram: \"\"",
+  "posts_collected": 1,
+  "profile_html": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\amitkukreja_profile.html",
+  "profile_screenshot": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\amitkukreja_profile.png",
+  "collected_at": "2026-10-22T23:48:06",
+  "posts": [
+    {
+      "username": "amitkukreja",
+      "post_url": "https://www.instagram.com/amitkukreja/p/EJqd-/",
+      "likes": "2",
+      "comments": "0",
+      "meta_description": "2 likes, 0 comments - amitkukreja on August 31, 2015: \"J\". ",
+      "og_description": "2 likes, 0 comments - amitkukreja on August 31, 2015: \"J\". ",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\amitkukreja_post_1.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\amitkukreja_post_1.png",
+      "collected_at": "2026-10-22T23:48:03"
+    }
+  ]
+}

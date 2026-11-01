@@ -1,0 +1,48 @@
+{
+  "username": "ritika_makeupartist",
+  "profile_url": "https://www.instagram.com/ritika_makeupartist/",
+  "title": "Ritika_Makeup Artist (@ritika_makeupartist) • Instagram photos and videos",
+  "followers": "30",
+  "following": "44",
+  "posts_count": "3",
+  "meta_description": "30 Followers, 44 Following, 3 Posts - Ritika_Makeup Artist (@ritika_makeupartist) on Instagram: \"\"",
+  "posts_collected": 3,
+  "profile_html": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\ritika_makeupartist_profile.html",
+  "profile_screenshot": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\ritika_makeupartist_profile.png",
+  "collected_at": "2026-10-23T00:51:06",
+  "posts": [
+    {
+      "username": "ritika_makeupartist",
+      "post_url": "https://www.instagram.com/ritika_makeupartist/p/BxsSO3nnu2i/",
+      "likes": "7",
+      "comments": "0",
+      "meta_description": "7 likes, 0 comments - ritika_makeupartist on May 20, 2019: \"Class work\". ",
+      "og_description": "7 likes, 0 comments - ritika_makeupartist on May 20, 2019: \"Class work\". ",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\ritika_makeupartist_post_1.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\ritika_makeupartist_post_1.png",
+      "collected_at": "2026-10-23T00:50:49"
+    },
+    {
+      "username": "ritika_makeupartist",
+      "post_url": "https://www.instagram.com/ritika_makeupartist/p/BxsRR7znDTw/",
+      "likes": "8",
+      "comments": "0",
+      "meta_description": "8 likes, 0 comments - ritika_makeupartist on May 20, 2019",
+      "og_description": "8 likes, 0 comments - ritika_makeupartist on May 20, 2019",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\ritika_makeupartist_post_2.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\ritika_makeupartist_post_2.png",
+      "collected_at": "2026-10-23T00:50:56"
+    },
+    {
+      "username": "ritika_makeupartist",
+      "post_url": "https://www.instagram.com/ritika_makeupartist/p/BxAF6u7li4d/",
+      "likes": "9",
+      "comments": "1",
+      "meta_description": "9 likes, 1 comments - ritika_makeupartist on May 3, 2019: \"practice time.. in class.. #eyemakeup#newbeginnings #lovemyjob #dobulecutcreezeeye#makeupartist #lovethiscolor #sharpeeye\". ",
+      "og_description": "9 likes, 1 comments - ritika_makeupartist on May 3, 2019: \"practice time.. in class.. #eyemakeup#newbeginnings #lovemyjob #dobulecutcreezeeye#makeupartist #lovethiscolor #sharpeeye\". ",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\ritika_makeupartist_post_3.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\ritika_makeupartist_post_3.png",
+      "collected_at": "2026-10-23T00:51:03"
+    }
+  ]
+}

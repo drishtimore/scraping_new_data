@@ -1,0 +1,26 @@
+{
+  "username": "zakirkhan_",
+  "profile_url": "https://www.instagram.com/zakirkhan_/",
+  "title": "erken (@zakirkhan_) • Instagram photos and videos",
+  "followers": "7",
+  "following": "1",
+  "posts_count": "1",
+  "meta_description": "7 Followers, 1 Following, 1 Posts - erken (@zakirkhan_) on Instagram: \"\"",
+  "posts_collected": 1,
+  "profile_html": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\zakirkhan__profile.html",
+  "profile_screenshot": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\zakirkhan__profile.png",
+  "collected_at": "2026-10-23T00:42:35",
+  "posts": [
+    {
+      "username": "zakirkhan_",
+      "post_url": "https://www.instagram.com/zakirkhan_/p/e6VqS5QlTc/",
+      "likes": "2",
+      "comments": "0",
+      "meta_description": "2 likes, 0 comments - zakirkhan_ on September 2, 2015",
+      "og_description": "2 likes, 0 comments - zakirkhan_ on September 2, 2015",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\zakirkhan__post_1.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\zakirkhan__post_1.png",
+      "collected_at": "2026-10-23T00:42:32"
+    }
+  ]
+}

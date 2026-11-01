@@ -1,0 +1,48 @@
+{
+  "username": "alakhpandey",
+  "profile_url": "https://www.instagram.com/alakhpandey/",
+  "title": "Alakh pandey (@alakhpandey) • Instagram photos and videos",
+  "followers": "31",
+  "following": "72",
+  "posts_count": "3",
+  "meta_description": "31 Followers, 72 Following, 3 Posts - Alakh pandey (@alakhpandey) on Instagram: \"\"",
+  "posts_collected": 3,
+  "profile_html": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\alakhpandey_profile.html",
+  "profile_screenshot": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\alakhpandey_profile.png",
+  "collected_at": "2026-10-23T00:02:11",
+  "posts": [
+    {
+      "username": "alakhpandey",
+      "post_url": "https://www.instagram.com/alakhpandey/p/CaCrCq_p0yT/",
+      "likes": "3",
+      "comments": "1",
+      "meta_description": "3 likes, 1 comments - alakhpandey on February 16, 2022",
+      "og_description": "3 likes, 1 comments - alakhpandey on February 16, 2022",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\alakhpandey_post_1.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\alakhpandey_post_1.png",
+      "collected_at": "2026-10-23T00:01:54"
+    },
+    {
+      "username": "alakhpandey",
+      "post_url": "https://www.instagram.com/alakhpandey/p/CaCrBSrJfgG/",
+      "likes": "4",
+      "comments": "0",
+      "meta_description": "4 likes, 0 comments - alakhpandey on February 16, 2022",
+      "og_description": "4 likes, 0 comments - alakhpandey on February 16, 2022",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\alakhpandey_post_2.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\alakhpandey_post_2.png",
+      "collected_at": "2026-10-23T00:02:01"
+    },
+    {
+      "username": "alakhpandey",
+      "post_url": "https://www.instagram.com/alakhpandey/p/CaCq1VKpv_Q/",
+      "likes": "4",
+      "comments": "0",
+      "meta_description": "4 likes, 0 comments - alakhpandey on February 16, 2022",
+      "og_description": "4 likes, 0 comments - alakhpandey on February 16, 2022",
+      "html_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\html\\alakhpandey_post_3.html",
+      "screenshot_file": "C:\\Users\\LOQ\\instagram_collector_scraping\\data\\screenshots\\alakhpandey_post_3.png",
+      "collected_at": "2026-10-23T00:02:08"
+    }
+  ]
+}

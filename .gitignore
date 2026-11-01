@@ -3,8 +3,5 @@ __pycache__/
 *.pyc
 .venv/
 instagram_chromium_profile/
-*.png
+*png
 *.html
-*.db
-*.db-wal
-*.db-shm
