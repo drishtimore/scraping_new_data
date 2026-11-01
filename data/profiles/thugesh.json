@@ -1,0 +1,26 @@
+{
+  "username": "thugesh",
+  "profile_url": "https://www.instagram.com/thugesh/",
+  "title": "Brandontaylor (@thugesh) • Instagram photos and videos",
+  "followers": "151",
+  "following": "4",
+  "posts_count": "1",
+  "meta_description": "151 Followers, 4 Following, 1 Posts - Brandontaylor (@thugesh) on Instagram: \"\"",
+  "posts_collected": 1,
+  "profile_html": "C:\\Users\\bishnupriya\\OneDrive\\Desktop\\insta\\instagram_collector_scraping\\data\\html\\thugesh_profile.html",
+  "profile_screenshot": "C:\\Users\\bishnupriya\\OneDrive\\Desktop\\insta\\instagram_collector_scraping\\data\\screenshots\\thugesh_profile.png",
+  "collected_at": "2026-10-23T17:37:24",
+  "posts": [
+    {
+      "username": "thugesh",
+      "post_url": "https://www.instagram.com/thugesh/p/biIMIgA35I/",
+      "likes": "1,245",
+      "comments": "698",
+      "meta_description": "1,245 likes, 698 comments - thugesh on August 29, 2015: \"It's not a good pic\". ",
+      "og_description": "1,245 likes, 698 comments - thugesh on August 29, 2015: \"It's not a good pic\". ",
+      "html_file": "C:\\Users\\bishnupriya\\OneDrive\\Desktop\\insta\\instagram_collector_scraping\\data\\html\\thugesh_post_1.html",
+      "screenshot_file": "C:\\Users\\bishnupriya\\OneDrive\\Desktop\\insta\\instagram_collector_scraping\\data\\screenshots\\thugesh_post_1.png",
+      "collected_at": "2026-10-23T17:37:21"
+    }
+  ]
+}

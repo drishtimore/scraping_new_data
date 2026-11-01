@@ -5,3 +5,6 @@ __pycache__/
 instagram_chromium_profile/
 *.png
 *.html
+*.db
+*.db-wal
+*.db-shm
