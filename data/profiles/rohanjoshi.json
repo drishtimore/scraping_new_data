@@ -1,0 +1,81 @@
+{
+  "username": "rohanjoshi",
+  "profile_url": "https://www.instagram.com/rohanjoshi/",
+  "title": "(@rohanjoshi) • Instagram photos and videos",
+  "followers": "39",
+  "following": "0",
+  "posts_count": "6",
+  "meta_description": "39 Followers, 0 Following, 6 Posts - @rohanjoshi on Instagram: \"\"",
+  "posts_collected": 6,
+  "profile_html": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\rohanjoshi_profile.html",
+  "profile_screenshot": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\rohanjoshi_profile.png",
+  "collected_at": "2026-10-11T17:34:34",
+  "posts": [
+    {
+      "username": "rohanjoshi",
+      "post_url": "https://www.instagram.com/rohanjoshi/p/LOKc0Amjdx/",
+      "likes": "3",
+      "comments": "5",
+      "meta_description": "3 likes, 5 comments - rohanjoshi on September 1, 2015",
+      "og_description": "3 likes, 5 comments - rohanjoshi on September 1, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\rohanjoshi_post_1.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\rohanjoshi_post_1.png",
+      "collected_at": "2026-10-11T17:33:54"
+    },
+    {
+      "username": "rohanjoshi",
+      "post_url": "https://www.instagram.com/rohanjoshi/p/JIO_nsmjZR/",
+      "likes": "4",
+      "comments": "0",
+      "meta_description": "4 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "og_description": "4 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\rohanjoshi_post_2.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\rohanjoshi_post_2.png",
+      "collected_at": "2026-10-11T17:34:01"
+    },
+    {
+      "username": "rohanjoshi",
+      "post_url": "https://www.instagram.com/rohanjoshi/p/JHBTNVGjVF/",
+      "likes": "1",
+      "comments": "0",
+      "meta_description": "1 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "og_description": "1 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\rohanjoshi_post_3.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\rohanjoshi_post_3.png",
+      "collected_at": "2026-10-11T17:34:09"
+    },
+    {
+      "username": "rohanjoshi",
+      "post_url": "https://www.instagram.com/rohanjoshi/p/I4Zi5LGjTp/",
+      "likes": "0",
+      "comments": "0",
+      "meta_description": "0 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "og_description": "0 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\rohanjoshi_post_4.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\rohanjoshi_post_4.png",
+      "collected_at": "2026-10-11T17:34:16"
+    },
+    {
+      "username": "rohanjoshi",
+      "post_url": "https://www.instagram.com/rohanjoshi/p/I4XBC5GjTA/",
+      "likes": "0",
+      "comments": "0",
+      "meta_description": "0 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "og_description": "0 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\rohanjoshi_post_5.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\rohanjoshi_post_5.png",
+      "collected_at": "2026-10-11T17:34:24"
+    },
+    {
+      "username": "rohanjoshi",
+      "post_url": "https://www.instagram.com/rohanjoshi/p/I2ANp5GjTY/",
+      "likes": "1",
+      "comments": "0",
+      "meta_description": "1 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "og_description": "1 likes, 0 comments - rohanjoshi on September 1, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\rohanjoshi_post_6.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\rohanjoshi_post_6.png",
+      "collected_at": "2026-10-11T17:34:31"
+    }
+  ]
+}

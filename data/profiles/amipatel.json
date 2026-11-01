@@ -1,0 +1,59 @@
+{
+  "username": "amipatel",
+  "profile_url": "https://www.instagram.com/amipatel/",
+  "title": "(@amipatel) • Instagram photos and videos",
+  "followers": "69",
+  "following": "1",
+  "posts_count": "4",
+  "meta_description": "69 Followers, 1 Following, 4 Posts - @amipatel on Instagram: \"\"",
+  "posts_collected": 4,
+  "profile_html": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\amipatel_profile.html",
+  "profile_screenshot": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\amipatel_profile.png",
+  "collected_at": "2026-10-11T14:12:07",
+  "posts": [
+    {
+      "username": "amipatel",
+      "post_url": "https://www.instagram.com/amipatel/p/H-dZR/",
+      "likes": "12",
+      "comments": "2",
+      "meta_description": "12 likes, 2 comments - amipatel on August 27, 2015",
+      "og_description": "12 likes, 2 comments - amipatel on August 27, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\amipatel_post_1.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\amipatel_post_1.png",
+      "collected_at": "2026-10-11T14:11:43"
+    },
+    {
+      "username": "amipatel",
+      "post_url": "https://www.instagram.com/amipatel/p/HGe0B/",
+      "likes": "9",
+      "comments": "0",
+      "meta_description": "9 likes, 0 comments - amipatel on August 27, 2015",
+      "og_description": "9 likes, 0 comments - amipatel on August 27, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\amipatel_post_2.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\amipatel_post_2.png",
+      "collected_at": "2026-10-11T14:11:50"
+    },
+    {
+      "username": "amipatel",
+      "post_url": "https://www.instagram.com/amipatel/p/HF-He/",
+      "likes": "18",
+      "comments": "0",
+      "meta_description": "18 likes, 0 comments - amipatel on August 27, 2015",
+      "og_description": "18 likes, 0 comments - amipatel on August 27, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\amipatel_post_3.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\amipatel_post_3.png",
+      "collected_at": "2026-10-11T14:11:57"
+    },
+    {
+      "username": "amipatel",
+      "post_url": "https://www.instagram.com/amipatel/p/HF9ZJ/",
+      "likes": "12",
+      "comments": "0",
+      "meta_description": "12 likes, 0 comments - amipatel on August 17, 2015",
+      "og_description": "12 likes, 0 comments - amipatel on August 17, 2015",
+      "html_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\html\\amipatel_post_4.html",
+      "screenshot_file": "C:\\Users\\Admin\\lalu\\ROI3\\instagram_collector\\data\\screenshots\\amipatel_post_4.png",
+      "collected_at": "2026-10-11T14:12:04"
+    }
+  ]
+}
